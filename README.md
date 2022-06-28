@@ -4,7 +4,7 @@
 
 Este es mi primer parrafo, se ace esto.
 
-Se hacer
+Se hacer:
 
 *Pan con palta
 *Ensalada
