@@ -6,7 +6,7 @@ Este es mi primer parrafo, se ace esto.
 
 Se hacer:
 
-*Pan con palta
-*Ensalada
-*Renders
-*Modelacion 3D
+* Pan con palta
+* Ensalada
+* Renders
+* Modelacion 3D
